@@ -126,10 +126,15 @@ I love building end-to-end applications — from clean REST APIs with Spring Boo
 
 ## 📊 GitHub Stats
 
-![Harshini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshinigb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshinigb&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshinigb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" height="180" alt="Harshini's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshinigb&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshinigb&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Harshinigb&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" />
+</p>
 
 ---
 
